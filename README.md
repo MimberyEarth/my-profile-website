@@ -1,4 +1,4 @@
-- The purpose of this repository is to hold the projects of deliverables for my DVOP class.
+# The purpose of this repository is to hold the projects of deliverables for my DVOP class.
 - The steps I took to complete this setup were as follows:
 # Assignment: Version Control and Publishing with Git and GitHub
 
@@ -67,3 +67,4 @@ sh
 git push -u origin main
 Verify Your Repository on GitHub
 Visit your GitHub repository URL and confirm that all your files are present.
+git command line tried to forward me to a localhost page that didnt exist.
